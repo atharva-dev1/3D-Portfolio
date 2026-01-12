@@ -1,113 +1,143 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
+![Portfolio Preview](<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/d40d2d32-ba52-44c5-a5b2-62e9f62aa8d8" />)
+
 
 # 🚀 My Portfolio Website
 
-Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
+Welcome to my personal portfolio repository! 👋
+This website is a digital showcase of my **skills, projects, and journey as a developer**, designed with a modern UI, smooth animations, and an engaging user experience.
 
-### Live preview: https://www.abhijitzende.com/
+### 🌐 Live Preview
 
-![Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/preview_video.gif?raw=true)
+```
+https://your-portfolio-link.com
+```
 
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
+---
 
-This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
+## ✨ About the Project
+
+This portfolio is built to reflect my passion for **technology, creativity, and continuous learning**.
+It combines clean design, interactive elements, and responsive layouts to present my work in a professional and visually appealing way.
+
+The goal of this project is to:
+
+* Create a strong **online presence**
+* Showcase **projects and skills**
+* Demonstrate **modern frontend development practices**
+
+---
 
 ## 🔥 Features
 
-Here are the key highlights of my portfolio:
+### 🎨 **Modern UI & Animations**
 
-### 🎹 **3D Interactive Animations**
-- Features a custom-made interactive keyboard built with **Spline**.
-- Each keycap represents a skill and reveals titles and descriptions on hover for an immersive experience.
-- Smooth, responsive 3D interactions that captivate visitors.
+* Smooth animations and transitions for an engaging experience
+* Interactive elements that enhance storytelling
 
-### ✨ **Slick Interactions & Animations**
-- Powered by **GSAP** and **Framer Motion**, delivering buttery-smooth animations on scroll, hover, and element reveals.
-- Creative motion designs that enhance storytelling and keep users engaged.
+### 🧩 **Creative Design**
 
-### 🌌 **Space-Themed Design**
-- Particles floating on a dark, cosmic background simulate an outer-space vibe.
-- Adds a unique and futuristic look to the portfolio.
+* Minimal yet attractive layout
+* Focus on readability, spacing, and visual balance
 
-### 📱 **Responsive Design**
-- Fully responsive layout ensures the website looks and functions beautifully on all devices.
-- Optimized for both desktop and mobile experiences.
+### 📱 **Fully Responsive**
 
-### 🧠 **Innovative Web Design**
-- Combines cutting-edge technology with an intuitive user experience.
-- Creative use of animations and visuals to push the boundaries of modern web design.
+* Optimized for desktop, tablet, and mobile devices
+* Consistent performance across screen sizes
+
+### 🧠 **Developer-Centric Structure**
+
+* Clean codebase
+* Scalable and easy to maintain
+* Follows best practices for modern web development
+
+---
 
 ## 🛠️ Tech Stack
 
-The portfolio website is built using the following tools and technologies:
+This portfolio is built using modern web technologies:
 
-- **Frontend:** Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
-- **Animations:** GSAP, Framer Motion, Spline Runtime
-- **Other Tools:** Resend, Socket.io, Zod
+* **Frontend:** React / Next.js
+* **Styling:** Tailwind CSS
+* **UI Components:** Shadcn UI / Custom Components
+* **Animations:** GSAP, Framer Motion
+* **Tools & Utilities:** Git, npm
 
-## 🌟 Getting Started
+*(You can add or remove tools based on what you actually used)*
 
-1. Clone this repository:
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally:
+
+1. Clone the repository
+
    ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
+   git clone https://github.com/your-username/your-portfolio-repo.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project folder
+
    ```bash
-   cd 3D-interactive-portfolio
+   cd your-portfolio-repo
    ```
 
-3. Install dependencies:
+3. Install dependencies
+
    ```bash
    npm install
    ```
 
-4. Set up environment variables:
-   ```bash
-   # Create a .env.local file in the root directory
-   touch .env.local
+4. Start the development server
 
-   # Add your Resend API key
-   RESEND_API_KEY=your_resend_api_key_here
-   ```
-
-5. Start the development server:
    ```bash
    npm run dev
    ```
 
-6. Open your browser and navigate to:
+5. Open your browser and visit
+
    ```
    http://localhost:3000
    ```
 
+---
+
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.abhijitzende.com/).
+The portfolio can be easily deployed using platforms like:
 
-### Setting up Resend API on Vercel
+* **Vercel**
+* **Netlify**
 
-1. Sign up for a [Resend](https://resend.com) account and get your API key
-2. Go to your Vercel project settings
-3. Navigate to the "Environment Variables" section
-4. Add a new environment variable:
-   - Name: `RESEND_API_KEY`
-   - Value: Your Resend API key
-5. Save the changes and redeploy your application
-
-Note: Make sure to keep your API key secret and never commit it to your repository.
-
-## 💖 Acknowledgments
-
-A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) for the inspiration and ideas that sparked this journey! 💡 If you're interested in creative web design, definitely check out his work.
-
-## 📬 Contact
-
-Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
-
-- **Email:** abhijitzende75@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+These platforms provide fast performance, easy CI/CD, and free hosting for frontend projects.
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+## 💡 Inspiration
+
+This project is inspired by modern developer portfolios across the web.
+Special thanks to the open-source community and developers who share their work and ideas. 🙌
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me for collaboration, internships, or opportunities:
+
+* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+⭐ If you find this project helpful or inspiring, don’t forget to give it a star!
+
+---
+
+If you want, I can also:
+
+* Customize this README **exactly to your tech stack**
+* Make it **ATS + recruiter friendly**
+* Add **badges, stats, and preview GIF sections**
+
+Just tell me 👍
