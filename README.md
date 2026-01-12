@@ -9,7 +9,7 @@ This website is a digital showcase of my **skills, projects, and journey as a de
 ### 🌐 Live Preview
 
 ```
-https://your-portfolio-link.com
+https://3-d-portfolio-atharvsha.vercel.app/
 ```
 
 ---
@@ -62,7 +62,6 @@ This portfolio is built using modern web technologies:
 * **Animations:** GSAP, Framer Motion
 * **Tools & Utilities:** Git, npm
 
-*(You can add or remove tools based on what you actually used)*
 
 ---
 
@@ -107,7 +106,6 @@ Follow these steps to run the project locally:
 The portfolio can be easily deployed using platforms like:
 
 * **Vercel**
-* **Netlify**
 
 These platforms provide fast performance, easy CI/CD, and free hosting for frontend projects.
 
@@ -125,8 +123,8 @@ Special thanks to the open-source community and developers who share their work 
 Feel free to connect with me for collaboration, internships, or opportunities:
 
 * **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/atharva-sharma-775502324/)
+* **GitHub:** [https://github.com/your-username](https://github.com/atharva-dev1)
 
 ---
 
