@@ -1,4 +1,5 @@
-![Portfolio Preview](<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/d40d2d32-ba52-44c5-a5b2-62e9f62aa8d8" />)
+<img width="1919" height="866" alt="Screenshot 2026-01-12 201714" src="https://github.com/user-attachments/assets/5375c994-6f5e-417c-bce8-0d7b65ebf029" />
+
 
 
 # 🚀 My Portfolio Website
@@ -60,7 +61,7 @@ This portfolio is built using modern web technologies:
 * **Styling:** Tailwind CSS
 * **UI Components:** Shadcn UI / Custom Components
 * **Animations:** GSAP, Framer Motion
-* **Tools & Utilities:** Git, npm
+* **Tools & Utilities:** VS Code IDE , Git , Github , npm , Vercel
 
 
 ---
@@ -122,20 +123,12 @@ Special thanks to the open-source community and developers who share their work 
 
 Feel free to connect with me for collaboration, internships, or opportunities:
 
-* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/atharva-sharma-775502324/)
-* **GitHub:** [https://github.com/your-username](https://github.com/atharva-dev1)
+* **Email:** [2431560atharva@gmail.com](2431560atharva@gmail.com)
+* **LinkedIn:** [atharva_sharma](https://www.linkedin.com/in/atharva-sharma-775502324/)
+* **GitHub:** [atharva-dev1](https://github.com/atharva-dev1)
 
 ---
 
 ⭐ If you find this project helpful or inspiring, don’t forget to give it a star!
 
 ---
-
-If you want, I can also:
-
-* Customize this README **exactly to your tech stack**
-* Make it **ATS + recruiter friendly**
-* Add **badges, stats, and preview GIF sections**
-
-Just tell me 👍
